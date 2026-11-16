@@ -1,0 +1,17 @@
+GOLDS GYM FITNESS - SITE
+
+Tudo (HTML, CSS e JavaScript) está dentro do index.html. As fotos são os arquivos .webp.
+
+TROCAR O WHATSAPP
+No index.html, procure WHATSAPP_NUMBER e WHATSAPP_DEFAULT_MSG no início do script.
+Número: 55 + DDD + número, só dígitos (ex.: 5566997247860). A mensagem é texto normal.
+Troque também os links fixos de reserva: "Localizar e substituir" 5566997247860 pelo novo número.
+
+GITHUB PAGES
+1. Crie um repositório público.
+2. Envie TODOS os arquivos desta pasta para a raiz (inclusive .nojekyll).
+3. Settings -> Pages -> Deploy from a branch -> main / (root) -> Save.
+4. Em 1-2 minutos o endereço aparece na própria tela de Pages.
+5. Opcional: troque og:image e "image" do JSON-LD pelo endereço completo do site + /fachada-noite.webp.
+
+Outras opções grátis: Netlify Drop (arrastar a pasta) ou Vercel.
